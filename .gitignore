@@ -13,7 +13,7 @@ dist/
 *.egg-info/
 
 # Database
-/data/*.db
+/data/*
 
 # Pytest
 .pytest_cache/
